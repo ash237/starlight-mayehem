@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="headlightsRGB.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lightsrepeated0000" x="3" y="3" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0001" x="2424" y="3" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0002" x="4845" y="3" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0003" x="3" y="671" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0004" x="2424" y="671" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0005" x="4845" y="671" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0006" x="3" y="1339" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0007" x="3" y="1339" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0008" x="3" y="1339" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0009" x="3" y="1339" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0010" x="3" y="1339" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0011" x="3" y="1339" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0012" x="3" y="1339" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0013" x="2424" y="1339" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0014" x="4845" y="1339" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0015" x="3" y="2007" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0016" x="2424" y="2007" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0017" x="4845" y="2007" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0018" x="3" y="2675" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0019" x="2424" y="2675" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0020" x="2424" y="2675" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0021" x="2424" y="2675" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0022" x="2424" y="2675" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0023" x="2424" y="2675" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0024" x="2424" y="2675" width="2418" height="665"/>
+	<SubTexture name="lightsrepeated0025" x="2424" y="2675" width="2418" height="665"/>
+</TextureAtlas>

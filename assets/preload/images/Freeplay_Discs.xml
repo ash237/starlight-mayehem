@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Freeplay_Discs.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cj0000" x="79" y="79" width="309" height="310"/>
+	<SubTexture name="cj0001" x="79" y="403" width="309" height="310"/>
+	<SubTexture name="dad0000" x="79" y="727" width="309" height="310"/>
+	<SubTexture name="dad0001" x="79" y="1051" width="309" height="310"/>
+	<SubTexture name="duet0000" x="402" y="1375" width="309" height="310"/>
+	<SubTexture name="duet0001" x="725" y="403" width="309" height="310"/>
+	<SubTexture name="gf0000" x="725" y="79" width="309" height="310"/>
+	<SubTexture name="gf0001" x="1048" y="79" width="309" height="310"/>
+	<SubTexture name="mom0000" x="1371" y="79" width="309" height="310"/>
+	<SubTexture name="mom0001" x="402" y="403" width="309" height="310"/>
+	<SubTexture name="monster0000" x="402" y="727" width="309" height="310"/>
+	<SubTexture name="monster0001" x="402" y="1051" width="309" height="310"/>
+	<SubTexture name="parents-christmas0000" x="79" y="1375" width="309" height="310"/>
+	<SubTexture name="parents-christmas0001" x="402" y="79" width="309" height="310"/>
+	<SubTexture name="pico0000" x="1048" y="403" width="309" height="310"/>
+	<SubTexture name="pico0001" x="1371" y="403" width="309" height="310"/>
+	<SubTexture name="ruby0000" x="725" y="727" width="309" height="310"/>
+	<SubTexture name="ruby0001" x="725" y="1051" width="309" height="310"/>
+	<SubTexture name="senpai0000" x="725" y="1375" width="309" height="310"/>
+	<SubTexture name="senpai0001" x="1048" y="727" width="309" height="310"/>
+	<SubTexture name="senpai-angry0000" x="1371" y="727" width="309" height="310"/>
+	<SubTexture name="senpai-angry0001" x="1048" y="1051" width="309" height="310"/>
+	<SubTexture name="spirit0000" x="1048" y="1375" width="309" height="310"/>
+	<SubTexture name="spirit0001" x="1371" y="1051" width="309" height="310"/>
+	<SubTexture name="spooky0000" x="1371" y="1375" width="309" height="310"/>
+</TextureAtlas>

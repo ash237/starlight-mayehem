@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Abel.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ABEL0000" x="0" y="0" width="320" height="659" frameX="0" frameY="-1" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABEL0001" x="320" y="0" width="320" height="659" frameX="0" frameY="-1" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABEL0002" x="640" y="0" width="320" height="660"/>
+	<SubTexture name="ABEL0003" x="960" y="0" width="318" height="660" frameX="-1" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABEL0004" x="1278" y="0" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABEL0005" x="1594" y="0" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABEL0006" x="1594" y="0" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABEL0007" x="1594" y="0" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABEL0008" x="1594" y="0" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABEL0009" x="1594" y="0" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABEL0010" x="1594" y="0" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABEL0011" x="1594" y="0" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABEL0012" x="1594" y="0" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABEL0013" x="1594" y="0" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+</TextureAtlas>

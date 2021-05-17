@@ -1,0 +1,33 @@
+[178[ [179[ [223[ [216[ |givealilbitback| *100* =1= #starlight#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !6! (#FF00CEFF( ))    Not bad bud! You managed to out-perform me somehow.
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !6! (#FF00CEFF( ))   You got some tight bars, ya know?
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /BF/ .. ~~ !6! (#FF31B0D1( ))    Beep ba boop!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /GF/ .. ~~ !6! (#FFA4014D( ))    Not bad, that was funky indeed!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /GF/ .. ~~ !6! (#FFA4014D( ))    Though it's almost night already, i didn't notice.
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !6! (#FF00CEFF( ))   But, to be honest.. i was never the best vocalist... of the group.
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /BF/ .. ~~ !6! (#FF31B0D1( ))    !?
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /???/ .. ~~ !7! (#FFFF00FF( ))   Ah...! Sorry I'm late! I ran into traffic and, Huff-huff...
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !7! (#FF00CEFF( ))    Don't worry! You came right on time!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /GF/ .. ~~ !7! (#FFA4014D( ))    Huh!?
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !8! (#FF00CEFF( ))   Meet Ruby, She's kinda shy.. but don’t let that make you underestimate her!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !8! (#FF00CEFF( ))   She's killer at vocals!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !8! (#FF00CEFF( ))   So you wanna go at them, Ruby?
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /Ruby/ .. ~~ !8! (#FFFF00FF( ))   W-What!?
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /Ruby/ .. ~~ !8! (#FFFF00FF( ))   Are those..?
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /BF/ .. ~~ !8! (#FF31B0D1( ))    Boop beep.
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /GF/ .. ~~ !8! (#FFA4014D( ))    She doesn't seem so sure of herself..
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /Ruby/ .. ~~ !9! (#FFFF00FF( ))   D-Don't worry... i- I can do it.
+:fuckyou: !default! [starlight[ ]30] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /Ruby/ .. ~~ !9! (#FFFF00FF( ))   I n-need to prove myself to them..
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !9! (#FF00CEFF( ))   Alright Ruby, Break a leg out there!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /BF/ .. ~~ !9! (#FF31B0D1( ))    Beep!
+:fuckyou: !default! [starlight[ ]30] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /GF/ .. ~~ !9! (#FFA4014D( ))    (So this is the stage fright my parents were talking about..)
+
+
+
+
+
+
+
+
+
+

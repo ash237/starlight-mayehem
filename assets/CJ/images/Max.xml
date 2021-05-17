@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Max.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MAX0000" x="0" y="0" width="472" height="619"/>
+	<SubTexture name="MAX0001" x="472" y="0" width="472" height="619"/>
+	<SubTexture name="MAX0002" x="944" y="0" width="472" height="619"/>
+	<SubTexture name="MAX0003" x="1416" y="0" width="470" height="618" frameX="-1" frameY="-1" frameWidth="472" frameHeight="619"/>
+	<SubTexture name="MAX0004" x="0" y="619" width="469" height="617" frameX="-1" frameY="-2" frameWidth="472" frameHeight="619"/>
+	<SubTexture name="MAX0005" x="469" y="619" width="468" height="617" frameX="-2" frameY="-2" frameWidth="472" frameHeight="619"/>
+	<SubTexture name="MAX0006" x="469" y="619" width="468" height="617" frameX="-2" frameY="-2" frameWidth="472" frameHeight="619"/>
+	<SubTexture name="MAX0007" x="469" y="619" width="468" height="617" frameX="-2" frameY="-2" frameWidth="472" frameHeight="619"/>
+	<SubTexture name="MAX0008" x="469" y="619" width="468" height="617" frameX="-2" frameY="-2" frameWidth="472" frameHeight="619"/>
+	<SubTexture name="MAX0009" x="469" y="619" width="468" height="617" frameX="-2" frameY="-2" frameWidth="472" frameHeight="619"/>
+	<SubTexture name="MAX0010" x="469" y="619" width="468" height="617" frameX="-2" frameY="-2" frameWidth="472" frameHeight="619"/>
+	<SubTexture name="MAX0011" x="469" y="619" width="468" height="617" frameX="-2" frameY="-2" frameWidth="472" frameHeight="619"/>
+	<SubTexture name="MAX0012" x="469" y="619" width="468" height="617" frameX="-2" frameY="-2" frameWidth="472" frameHeight="619"/>
+	<SubTexture name="MAX0013" x="469" y="619" width="468" height="617" frameX="-2" frameY="-2" frameWidth="472" frameHeight="619"/>
+</TextureAtlas>

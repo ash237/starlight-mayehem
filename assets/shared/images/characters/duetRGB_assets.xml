@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="duetRGB_assets.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="duet Sing Note DOWN0000" x="0" y="0" width="578" height="755" frameX="0" frameY="0" frameWidth="581" frameHeight="755"/>
+	<SubTexture name="duet Sing Note DOWN0001" x="578" y="0" width="578" height="755" frameX="0" frameY="0" frameWidth="581" frameHeight="755"/>
+	<SubTexture name="duet Sing Note DOWN0002" x="1156" y="0" width="581" height="755"/>
+	<SubTexture name="duet Sing Note DOWN0003" x="1737" y="0" width="581" height="755"/>
+	<SubTexture name="duet Sing Note DOWN0004" x="2318" y="0" width="580" height="755" frameX="0" frameY="0" frameWidth="581" frameHeight="755"/>
+	<SubTexture name="duet Sing Note DOWN0005" x="2898" y="0" width="578" height="755" frameX="0" frameY="0" frameWidth="581" frameHeight="755"/>
+	<SubTexture name="duet Sing Note DOWN0006" x="3476" y="0" width="578" height="755" frameX="0" frameY="0" frameWidth="581" frameHeight="755"/>
+	<SubTexture name="duet Sing Note DOWN0007" x="0" y="0" width="578" height="755" frameX="0" frameY="0" frameWidth="581" frameHeight="755"/>
+	<SubTexture name="duet Sing Note DOWN0008" x="0" y="0" width="578" height="755" frameX="0" frameY="0" frameWidth="581" frameHeight="755"/>
+	<SubTexture name="duet Sing Note DOWN0009" x="0" y="0" width="578" height="755" frameX="0" frameY="0" frameWidth="581" frameHeight="755"/>
+	<SubTexture name="duet Sing Note DOWN0010" x="0" y="0" width="578" height="755" frameX="0" frameY="0" frameWidth="581" frameHeight="755"/>
+	<SubTexture name="duet Sing Note DOWN0011" x="0" y="0" width="578" height="755" frameX="0" frameY="0" frameWidth="581" frameHeight="755"/>
+	<SubTexture name="duet Sing Note DOWN0012" x="0" y="0" width="578" height="755" frameX="0" frameY="0" frameWidth="581" frameHeight="755"/>
+	<SubTexture name="duet Sing Note DOWN0013" x="0" y="0" width="578" height="755" frameX="0" frameY="0" frameWidth="581" frameHeight="755"/>
+	<SubTexture name="duet Sing Note DOWN0014" x="0" y="0" width="578" height="755" frameX="0" frameY="0" frameWidth="581" frameHeight="755"/>
+	<SubTexture name="duet Sing Note DOWN0015" x="0" y="0" width="578" height="755" frameX="0" frameY="0" frameWidth="581" frameHeight="755"/>
+	<SubTexture name="duet Sing Note LEFT0000" x="4054" y="0" width="564" height="788" frameX="-15" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0001" x="4618" y="0" width="565" height="788" frameX="-13" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0002" x="5183" y="0" width="573" height="788" frameX="0" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0003" x="5756" y="0" width="572" height="788" frameX="-1" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0004" x="6328" y="0" width="568" height="788" frameX="-5" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0005" x="6896" y="0" width="560" height="788" frameX="-15" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0006" x="7456" y="0" width="564" height="788" frameX="-15" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0007" x="7456" y="0" width="564" height="788" frameX="-15" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0008" x="7456" y="0" width="564" height="788" frameX="-15" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0009" x="7456" y="0" width="564" height="788" frameX="-15" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0010" x="7456" y="0" width="564" height="788" frameX="-15" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0011" x="7456" y="0" width="564" height="788" frameX="-15" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0012" x="7456" y="0" width="564" height="788" frameX="-15" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0013" x="7456" y="0" width="564" height="788" frameX="-15" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0014" x="7456" y="0" width="564" height="788" frameX="-15" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0015" x="7456" y="0" width="564" height="788" frameX="-15" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0016" x="7456" y="0" width="564" height="788" frameX="-15" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0017" x="7456" y="0" width="564" height="788" frameX="-15" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note LEFT0018" x="7456" y="0" width="564" height="788" frameX="-15" frameY="0" frameWidth="579" frameHeight="788"/>
+	<SubTexture name="duet Sing Note RIGHT0000" x="0" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0001" x="756" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0002" x="1512" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0003" x="2268" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0004" x="3024" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0005" x="3780" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0006" x="4536" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0007" x="0" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0008" x="0" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0009" x="0" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0010" x="0" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0011" x="0" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0012" x="0" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0013" x="0" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0014" x="5292" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0015" x="5292" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0016" x="5292" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0017" x="5292" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note RIGHT0018" x="6048" y="788" width="756" height="821"/>
+	<SubTexture name="duet Sing Note UP0000" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0001" x="7338" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0002" x="0" y="1633" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0003" x="534" y="1633" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0004" x="1068" y="1633" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0005" x="1602" y="1633" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0006" x="1602" y="1633" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0007" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0008" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0009" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0010" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0011" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0012" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0013" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0014" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0015" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0016" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0017" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0018" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0019" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0020" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0021" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0022" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0023" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0024" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0025" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0026" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0027" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0028" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0029" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0030" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0031" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0032" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0033" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0034" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0035" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0036" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0037" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0038" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0039" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0040" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0041" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0042" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0043" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0044" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0045" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0046" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0047" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0048" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0049" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0050" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0051" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0052" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0053" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0054" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0055" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0056" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0057" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0058" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet Sing Note UP0059" x="6804" y="788" width="534" height="845"/>
+	<SubTexture name="duet idle dance0000" x="2136" y="1633" width="551" height="801"/>
+	<SubTexture name="duet idle dance0001" x="2687" y="1633" width="538" height="801" frameX="-13" frameY="0" frameWidth="551" frameHeight="801"/>
+	<SubTexture name="duet idle dance0002" x="3225" y="1633" width="527" height="801" frameX="-23" frameY="0" frameWidth="551" frameHeight="801"/>
+	<SubTexture name="duet idle dance0003" x="3752" y="1633" width="527" height="801" frameX="-23" frameY="0" frameWidth="551" frameHeight="801"/>
+	<SubTexture name="duet idle dance0004" x="4279" y="1633" width="527" height="801" frameX="-23" frameY="0" frameWidth="551" frameHeight="801"/>
+	<SubTexture name="duet idle dance0005" x="4806" y="1633" width="527" height="801" frameX="-23" frameY="0" frameWidth="551" frameHeight="801"/>
+	<SubTexture name="duet idle dance0006" x="5333" y="1633" width="528" height="801" frameX="-22" frameY="0" frameWidth="551" frameHeight="801"/>
+	<SubTexture name="duet idle dance0007" x="5861" y="1633" width="532" height="801" frameX="-18" frameY="0" frameWidth="551" frameHeight="801"/>
+	<SubTexture name="duet idle dance0008" x="6393" y="1633" width="543" height="801" frameX="-8" frameY="0" frameWidth="551" frameHeight="801"/>
+	<SubTexture name="duet idle dance0009" x="6936" y="1633" width="549" height="801" frameX="-2" frameY="0" frameWidth="551" frameHeight="801"/>
+	<SubTexture name="duet idle dance0010" x="7485" y="1633" width="551" height="801"/>
+	<SubTexture name="duet idle dance0011" x="0" y="2478" width="551" height="801"/>
+	<SubTexture name="duet idle dance0012" x="551" y="2478" width="551" height="758" frameX="0" frameY="-43" frameWidth="551" frameHeight="801"/>
+</TextureAtlas>

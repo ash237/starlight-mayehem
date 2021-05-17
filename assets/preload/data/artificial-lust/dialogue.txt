@@ -1,0 +1,43 @@
+[178[ [179[ [223[ [216[ |givealilbitback| *100* =1= #starlight#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !10! (#FF00CEFF( ))    Now that was a sick performance Ruby!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !10! (#FF00CEFF( ))   You keep on improving every time.
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /GF/ .. ~~ !10! (#FFA4014D( ))    I wasn't expecting that, You're incredible!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /Ruby/ .. ~~ !10! (#FFFF00FF( ))   Huh?  You... mean that?!  T-thanks...
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /Ruby/ .. ~~ !10! (#FFFF00FF( ))   Yet... you still beat me...
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !11! (#FF00CEFF( ))   And that’s where I come in! Haha!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !11! (#FF00CEFF( ))   So, what do you say Ruby? How about we step our game up together?
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /Ruby/ .. ~~ !11! (#FFFF00FF( ))   Pardon...?!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !11! (#FF00CEFF( ))   Me and you both, taking them on 2V1!!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /BF/ .. ~~ !11! (#FF31B0D1( ))    Beep!?!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /GF/ .. ~~ !12! (#FFA4014D( ))    That is so totally against the rules, But you can take them on, right?
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /Ruby/ .. ~~ !12! (#FFFF00FF( ))   S-since when were there rules?!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /BF/ .. ~~ !12! (#FF31B0D1( ))    Boop!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !12! (#FF00CEFF( ))    Alright now, let’s rock on for one final performance!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.02; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? // .. ~~ !12! (#FF00CEFF( ))    ..........
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /GF/ .. ~~ !12! (#FFA4014D( ))    Wait!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !13! (#FF00CEFF( ))    ...
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /Ruby/ .. ~~ !13! (#FFFF00FF( ))    ...
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /BF/ .. ~~ !13! (#FF31B0D1( ))    ....... beep?
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /GF/ .. ~~ !13! (#FFA4014D( ))    You know, on another thought…
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /GF/ .. ~~ !14! (#FFA4014D( )showtimeYEAAA)    A 2 versus 1 isn't really fair, is it..?
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /Ruby/ .. ~~ !14! (#FFFF00FF( ))    huh?
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /GF/ .. ~~ !14! (#FFA4014D( ))   Let me join you in a duet!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /GF/ .. ~~ !14! (#FFA4014D( ))    I'm a little rusty, but remember, my genes are no joke!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /BF/ .. ~~ !14! (#FF31B0D1( ))    Beep boop!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !15! (#FF00CEFF( ))    Hmm... not bad. Show us what you’ve got, Girlfriend!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /GF/ .. ~~ !15! (#FFA4014D( ))    I'll do my best!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /BF/ .. ~~ !15! (#FF31B0D1( ))    Beep boop beep!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !15! (#FF00CEFF( ))    So Ruby, do you want me to carry you just like they do?
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /Ruby/ .. ~~ !15! (#FFFF00FF( ))    N-no thanks, I’m fine standing up here.
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /CJ/ .. ~~ !15! (#FF00CEFF( ))   Sweet. Alright my dudes, let’s end this mayhem right here, right now!
+:fuckyou: !default! [starlight[ ]40] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #starlight# ^pixelText^ !#FFFFFFFF! ?#FFD89494? /Ruby/ .. ~~ !15! (#FFFF00FF( ))    Y-yeah!  Let’s do this!
+
+
+
+
+
+
+
+
+
+

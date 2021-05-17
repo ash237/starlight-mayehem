@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="headlightsRGB.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="headlightsfinal0000" x="0" y="0" width="2429" height="665"/>
+	<SubTexture name="headlightsfinal0001" x="2429" y="0" width="2428" height="665" frameX="0" frameY="0" frameWidth="2429" frameHeight="665"/>
+	<SubTexture name="headlightsfinal0002" x="4857" y="0" width="2426" height="665" frameX="-1" frameY="0" frameWidth="2429" frameHeight="665"/>
+	<SubTexture name="headlightsfinal0003" x="0" y="665" width="2424" height="665" frameX="-2" frameY="0" frameWidth="2429" frameHeight="665"/>
+	<SubTexture name="headlightsfinal0004" x="2424" y="665" width="2422" height="665" frameX="-3" frameY="0" frameWidth="2429" frameHeight="665"/>
+	<SubTexture name="headlightsfinal0005" x="4846" y="665" width="2420" height="665" frameX="-4" frameY="0" frameWidth="2429" frameHeight="665"/>
+	<SubTexture name="headlightsfinal0006" x="0" y="1330" width="2419" height="665" frameX="-5" frameY="0" frameWidth="2429" frameHeight="665"/>
+	<SubTexture name="headlightsfinal0007" x="0" y="1330" width="2419" height="665" frameX="-5" frameY="0" frameWidth="2429" frameHeight="665"/>
+	<SubTexture name="headlightsfinal0008" x="0" y="1330" width="2419" height="665" frameX="-5" frameY="0" frameWidth="2429" frameHeight="665"/>
+	<SubTexture name="headlightsfinal0009" x="0" y="1330" width="2419" height="665" frameX="-5" frameY="0" frameWidth="2429" frameHeight="665"/>
+	<SubTexture name="headlightsfinal0010" x="0" y="1330" width="2419" height="665" frameX="-5" frameY="0" frameWidth="2429" frameHeight="665"/>
+	<SubTexture name="headlightsfinal0011" x="0" y="1330" width="2419" height="665" frameX="-5" frameY="0" frameWidth="2429" frameHeight="665"/>
+	<SubTexture name="headlightsfinal0012" x="0" y="1330" width="2419" height="665" frameX="-5" frameY="0" frameWidth="2429" frameHeight="665"/>
+</TextureAtlas>
