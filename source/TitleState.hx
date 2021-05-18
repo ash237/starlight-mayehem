@@ -182,7 +182,7 @@ class TitleState extends MusicBeatState
 		fnfSpr = new FlxSprite(0, FlxG.height * 0.47).loadGraphic(Paths.image('logo'));
 		add(fnfSpr);
 		fnfSpr.visible = false;
-		fnfSpr.setGraphicSize(Std.int(fnfSpr.width * 0.8));
+		fnfSpr.setGraphicSize(Std.int(fnfSpr.width * 1));
 		fnfSpr.updateHitbox();
 		fnfSpr.antialiasing = true;
 
@@ -385,7 +385,7 @@ class TitleState extends MusicBeatState
 			// credTextShit.addText();
 			case 6:
 				deleteCoolText();
-				createCoolText(['A modification', 'for']);
+				createCoolText(['Brought to you', 'by']);
 			case 7:
 				fnfSpr.x = -1500;
 				fnfSpr.visible = true;
@@ -406,7 +406,6 @@ class TitleState extends MusicBeatState
 			// credTextShit.text += '\nlmao';
 			case 12:
 				deleteCoolText();
-				
 			case 13:
 				createCoolText(['Friday']);
 			case 14:
