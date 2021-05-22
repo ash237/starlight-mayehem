@@ -2519,7 +2519,14 @@ class PlayState extends MusicBeatState
 						camFollow.x = FlxMath.lerp(camFollow.x, dad.getMidpoint().x + 150, (camLerp * _variables.cameraSpeed)/(_variables.fps/60));
 						camFollow.y = FlxMath.lerp(camFollow.y, dad.getMidpoint().y - 100, (camLerp * _variables.cameraSpeed)/(_variables.fps/60));
 						// camFollow.setPosition(lucky.getMidpoint().x - 120, lucky.getMidpoint().y + 210);
-		
+
+						switch (curStage)
+						{
+							case 'festival':
+								camFollow.x = FlxMath.lerp(camFollow.x, dad.getMidpoint().x + 395.97, (camLerp * _variables.cameraSpeed)/(_variables.fps/60));
+								camFollow.y = FlxMath.lerp(camFollow.y, dad.getMidpoint().y + 20.69, (camLerp * _variables.cameraSpeed)/(_variables.fps/60));
+						}
+
 						switch (dad.curCharacter)
 						{
 							case 'mom':
@@ -2527,16 +2534,12 @@ class PlayState extends MusicBeatState
 							case 'senpai' | 'senpai-angry':
 								camFollow.x = FlxMath.lerp(camFollow.x, dad.getMidpoint().x - 190, (camLerp * _variables.cameraSpeed)/(_variables.fps/60));
 								camFollow.y = FlxMath.lerp(camFollow.y, dad.getMidpoint().y - 830, (camLerp * _variables.cameraSpeed)/(_variables.fps/60));
-						}
-						switch (curStage)
-						{
-							case 'festival':
-								camFollow.x = FlxMath.lerp(camFollow.x, dad.getMidpoint().x + 395.97, (camLerp * _variables.cameraSpeed)/(_variables.fps/60));
-								camFollow.y = FlxMath.lerp(camFollow.y, dad.getMidpoint().y + 20.69, (camLerp * _variables.cameraSpeed)/(_variables.fps/60));
-						}
-						switch (dad.curCharacter) {
 							case 'ruby':
-								camFollow.x += 20;
+								camFollow.x = FlxMath.lerp(camFollow.x, dad.getMidpoint().x + 415.97, (camLerp * _variables.cameraSpeed)/(_variables.fps/60));
+						}
+						
+						switch (dad.curCharacter) {
+							
 						}
 						if (dad.curCharacter == 'mom')
 							vocals.volume = _variables.vvolume/100;
@@ -3167,10 +3170,10 @@ class PlayState extends MusicBeatState
 							switch (_variables.music)
             				{
     			            	case 'classic':
-    			            	    FlxG.sound.playMusic(Paths.music('freakyMenu'), _variables.mvolume/100);
+    			            	    FlxG.sound.playMusic(Paths.music('alpha'), _variables.mvolume/100);
 									Conductor.changeBPM(102);
     			            	case 'funky':
-    			            	    FlxG.sound.playMusic(Paths.music('funkyMenu'), _variables.mvolume/100);
+    			            	    FlxG.sound.playMusic(Paths.music('alpha'), _variables.mvolume/100);
 									Conductor.changeBPM(140);
     			        	}
 							FlxG.switchState(new MenuMarathon());

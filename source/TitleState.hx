@@ -298,7 +298,7 @@ class TitleState extends MusicBeatState
 			titleText.animation.play('press');
 
 			FlxG.camera.flash(FlxColor.WHITE, 1, null, true);
-			FlxG.sound.play(Paths.sound('confirmMenu'), 0.7*_variables.svolume/100);
+			FlxG.sound.play(Paths.sound('confirmMenu'), 1*_variables.svolume/100);
 
 			#if windows
 			DiscordClient.changePresence("Proceeding to the Main Menu", null);
