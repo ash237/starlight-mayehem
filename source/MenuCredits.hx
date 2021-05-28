@@ -321,8 +321,8 @@ class MenuCredits extends MusicBeatState
 					enterCat();
 				} else {
 				#if linux
+				//This will tell the shell "/usr/bin/xdg-open https:*link in question*
 				trace(urlString);
-				//FlxG.openURL(urlString);
 				Sys.command('/usr/bin/xdg-open'+' '+urlString);
 				#else
 				FlxG.openURL('https:' + socialLink[grpSocials.members.indexOf(lazyShit)]);

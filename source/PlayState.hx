@@ -1681,7 +1681,7 @@ class PlayState extends MusicBeatState
 		if (_modifiers.OffbeatSwitch)
 			vocals.time = Conductor.songPosition + (512 * _modifiers.Offbeat/100);
 
-		// Song duration in a float, useful for the time left feature
+		// Added a var at the end, because it wouldn't build without it
 		var songLength = FlxG.sound.music.length;
 
 		if (_variables.songPosition) // I dont wanna talk about this code :(
