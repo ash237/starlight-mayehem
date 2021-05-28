@@ -314,14 +314,16 @@ class MenuCredits extends MusicBeatState
 				FlxG.sound.play(Paths.sound('cancelMenu'), _variables.svolume/100);
 				}
 			}
-
+            var urlString:String = 'https:'+socialLink[grpSocials.members.indexOf(lazyShit)];
 			if (accepted)
 			{
 				if (!inCat) {
 					enterCat();
 				} else {
 				#if linux
-				Sys.command('/usr/bin/xdg-open', 'https:' + socialLink[grpSocials.members.indexOf(lazyShit)], "&"]);
+				//This will tell the shell "/usr/bin/xdg-open https:*link in question*
+				trace(urlString);
+				Sys.command('/usr/bin/xdg-open'+' '+urlString);
 				#else
 				FlxG.openURL('https:' + socialLink[grpSocials.members.indexOf(lazyShit)]);
 				#end
