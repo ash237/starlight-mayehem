@@ -1682,7 +1682,8 @@ class PlayState extends MusicBeatState
 			vocals.time = Conductor.songPosition + (512 * _modifiers.Offbeat/100);
 
 		// Song duration in a float, useful for the time left feature
-		songLength = FlxG.sound.music.length;
+        var songLength:Float = 0;
+        songLength = FlxG.sound.music.length;
 
 		if (_variables.songPosition) // I dont wanna talk about this code :(
 			{
