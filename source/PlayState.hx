@@ -1682,7 +1682,6 @@ class PlayState extends MusicBeatState
 			vocals.time = Conductor.songPosition + (512 * _modifiers.Offbeat/100);
 
 		// Song duration in a float, useful for the time left feature
-		songLength = FlxG.sound.music.length;
 
 		if (_variables.songPosition) // I dont wanna talk about this code :(
 			{
@@ -1699,7 +1698,7 @@ class PlayState extends MusicBeatState
 				songPosBG.cameras = [camHUD];
 				
 				songPosBar = new FlxBar(songPosBG.x + 4, songPosBG.y + 4, LEFT_TO_RIGHT, Std.int(songPosBG.width - 8), Std.int(songPosBG.height - 8), this,
-				'songPositionBar', 0, songLength - 1000);
+				'songPositionBar', 0, - 1000);
 				songPosBar.numDivisions = 1000;
 				songPosBar.scrollFactor.set();
 				songPosBar.createFilledBar(FlxColor.GRAY, FlxColor.LIME);
